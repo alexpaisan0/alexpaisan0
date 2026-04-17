@@ -1,15 +1,17 @@
 ## 💫 About Me
-Soy desarrollador con enfoque principal en Frontend, apasionado por crear interfaces modernas, intuitivas y eficientes que ofrezcan una excelente experiencia de usuario.
+**"I turn coffee into high-quality code and beautiful interfaces."** ☕✨
 
-Trabajo principalmente con JavaScript, React y Tailwind CSS, construyendo aplicaciones web dinámicas y conectadas a APIs y servicios backend. Me enfoco en transformar ideas en productos funcionales, cuidando el rendimiento, la usabilidad y la escalabilidad.
+I'm a Developer with a primary focus on Frontend, passionate about creating modern, intuitive, and efficient interfaces that deliver an exceptional user experience.
 
-Actualmente continúo aprendiendo nuevas herramientas y mejores prácticas para desarrollar aplicaciones más robustas, mantenibles y alineadas a estándares modernos.
+I specialize in JavaScript, React, and Tailwind CSS, building dynamic web applications and seamlessly integrating them with APIs and backend services. I enjoy transforming ideas into functional products, optimizing performance, usability, and scalability in every project.
 
-## 🌐 Socials
+I am constantly learning new tools and best practices to build more robust, maintainable, and modern applications.
+
+## 🌐 Let's Connect!
 [🌍 Portfolio](TU_LINK_AQUÍ)  
 [💼 LinkedIn](TU_LINK_AQUÍ)
 
-## 💻 Tech Stack
+## 💻 My Toolbox
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
