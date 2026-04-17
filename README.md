@@ -24,5 +24,4 @@ I am constantly learning new tools and best practices to build more robust, main
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpaisan0&layout=compact&theme=dark)
 
-## 💬 Random Dev Quote
-![**"I turn coffee into high-quality code and beautiful interfaces."** ☕✨]
+**"I turn coffee into high-quality code and beautiful interfaces."** ☕✨
